@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/r-park/todo-angular-firebase.svg?style=shield&circle-token=d1a31de32e5baabbf59aa8f78ba251254261fb3a)](https://circleci.com/gh/r-park/todo-angular-firebase)
-
 
 # Todo app with Angular, AngularFire2, and Firebase
 A simple Todo app example built with **Angular**, **Angular CLI** and **AngularFire2**. 
