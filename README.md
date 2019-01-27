@@ -1,12 +1,12 @@
 
 # Todo app with Angular, AngularFire2, and Firebase
-A simple Todo app example built with **Angular**, **Angular CLI** and **AngularFire2**. 
+A Todo app  **Angular**, **Angular CLI** and **AngularFire2**. 
 
 
 Stack
 -----
 
-- Angular 4
+- Angular 7
 - Angular CLI
 - AngularFire2 `4.0.0-rc.1`
 - Firebase
